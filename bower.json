@@ -8,7 +8,6 @@
   "description": "jQuery.fn helper extensions",
   "main": "jquery.helpers.js",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "jquery": "~1.9.1",
     "jscssp": "~0.1.1"
