@@ -1,0 +1,23 @@
+{
+  "name": "jquery.helpers",
+  "version": "1.0",
+  "homepage": "https://github.com/Iceman52489/jquery.helpers",
+  "authors": [
+    "Boost Labs Development Team"
+  ],
+  "description": "jQuery.fn helper extensions",
+  "main": "jquery.helpers.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.9.1",
+    "jscssp": "~0.1.1"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
